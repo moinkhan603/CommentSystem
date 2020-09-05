@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "104634874111",
+    "firebase_url": "https://commenting-5084c.firebaseio.com",
+    "project_id": "commenting-5084c",
+    "storage_bucket": "commenting-5084c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104634874111:android:a20385271dd5acbe4574ca",
+        "android_client_info": {
+          "package_name": "com.flashsol.comnt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104634874111-6eb8c4t2u2mm9dqj282b4f9lal2djc3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFu7ssSuHlzwLM_YeLFunKX3i9MAK1TUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104634874111-6eb8c4t2u2mm9dqj282b4f9lal2djc3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
